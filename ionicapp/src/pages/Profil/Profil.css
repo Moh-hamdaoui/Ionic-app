@@ -1,0 +1,37 @@
+.container {
+    color : white;
+    background-color: #751f85; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .form-profil {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .custom-input {
+    border: none; 
+    border-bottom: 1px solid black; 
+    padding: 10px;
+    margin-bottom: 10px; 
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+
+  ion-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  

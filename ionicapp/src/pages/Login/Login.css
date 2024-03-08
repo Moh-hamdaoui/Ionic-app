@@ -1,0 +1,17 @@
+.login-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Utiliser la hauteur de la vue pour centrer verticalement */
+}
+
+.login-container {
+  text-align: center;
+}
+
+.custom-input,
+.custom-button {
+  margin-bottom: 16px; /* Ajouter un espace entre les éléments si nécessaire */
+}
+
+  
